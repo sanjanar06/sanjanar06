@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjana Reji</h1>
+<h1 align="left">About Me</h1>
 <h3 align="center">A budding backend developer from NITC</h3>
 
 - 🔭 I’m currently working on [clone of playo's backend](https://github.com/sanjanar06/sport-connect-backend)
