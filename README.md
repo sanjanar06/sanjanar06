@@ -1,9 +1,9 @@
 <h1 align="left">About Me</h1>
 <h3 align="center">A budding backend developer from NITC</h3>
 
-- 🔭 I’m currently working on [clone of playo's backend](https://github.com/sanjanar06/sport-connect-backend)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Springboot Java, AWS,TailwindCSS**
+- 🌱 I’m currently learning **Springboot Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjanar06](https://github.com/sanjanar06)
 
