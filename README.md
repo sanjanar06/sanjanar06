@@ -1,49 +1,109 @@
 <div align="center">
 
-# Hi there, I'm Sanjana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Sanjana Kallingal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### A passionate Backend Developer from NITC.
+### Software Engineer | MS CS @ UW-Madison | SWE @ Wells Fargo
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Building+scalable+backends;Java+%26+Spring+Boot+Enthusiast;Database+Optimizer;Movie+Soundtrack+Coder+%F0%9F%8E%A7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Engineering+%26+Agentic+AI;Real-time+Identity+Stitching;Systems+Reliability" alt="Typing SVG" /></a>
 
 ---
 
 <samp>
-Running on caffeine and Java code. I love architecting complex systems and ensuring the server-side logic is bulletproof.
+Passionate about architecting robust backend systems and real-time data platforms. I thrive on solving complex distributed systems challenges and building scalable solutions that handle billions of requests.
 </samp>
 
 <br/>
-<br/>
 
-### 🛠️ My Tech Stack
-
-I specialize in the Java Ecosystem for backend development.
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,mysql,mariadb,mongo,git,postman,cpp,nodejs,express&perline=7" />
-  </a>
-</p>
-
-<br/>
-
----
-
-### 📈 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanar06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanjana's Stats" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-I am always open to discussing backend architectures, new projects, or just chatting about tech.
-<br/><br/>
-<a href="https://www.linkedin.com/in/sanjana-kallingal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://medium.com/@sanjanareji06"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjana-kallingal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sanjanar06/sanjanar06)
+[![Medium](https://img.shields.io/badge/Medium-Read%20Blog-12100E?style=for-the-badge&logo=rss&logoColor=white)](https://medium.com/@sanjanareji06)
 
 </div>
+
+
+## 👩🏻‍🦰 About Me
+
+- **Graduate Student** at University of Wisconsin-Madison pursuing MS in Computer Science
+- **Former Software Engineer** at Wells Fargo with 2+ years of experience
+- Built systems handling **1.8B+ API calls** in production
+- Specialized in **microservices, stream processing, and real-time analytics**
+- Currently exploring **Real-time Identity Stitching in Customer Data Platforms** and **Analytics & Systems Engineering**
+
+
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Languages & Backend Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,sql" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### Data & Streaming Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,mysql,postgres,mongodb,redis" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=apache-flink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Cloud & DevOps Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,git,github,linux" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### Tools & Development Environment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,idea,vim,maven" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+ 
+## 📌 Current Obsession 
+  
+<div align="center">
+  
+[![Customer Data Platform Pipeline](https://github.com/sanjanar06/Customer-Data-Platform-Pipeline/raw/main/docs/dataflow_arc.png)](https://github.com/sanjanar06/Customer-Data-Platform-Pipeline)
+
+**[View Repository →](https://github.com/sanjanar06/Customer-Data-Platform-Pipeline)**
+
+*Real-time customer data platform with identity stitching, stream processing, and AI-driven personalization*
+
+</div>
+
+## 💻 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/sanjana_r06/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/sanjana_r06?theme=dark&font=Gafata&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+
+
