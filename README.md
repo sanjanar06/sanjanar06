@@ -32,9 +32,9 @@ Passionate about architecting robust backend systems and real-time data platform
 
 ## 💻 Tech Stack
 
-<table width="100%">
+<table style="width: 100%; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Passionate about architecting robust backend systems and real-time data platform
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Passionate about architecting robust backend systems and real-time data platform
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Passionate about architecting robust backend systems and real-time data platform
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 <div align="center">
 
@@ -84,6 +84,8 @@ Passionate about architecting robust backend systems and real-time data platform
 </div>
 
 </td>
+</tr>
+</table>
 </tr>
 </table>
  
