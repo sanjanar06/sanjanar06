@@ -32,55 +32,56 @@ Passionate about architecting robust backend systems and real-time data platform
 
 ## 💻 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### Languages & Backend Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,sql" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express" />
-</p>
+<div align="center">
+
+### Languages & Backend
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,sql&theme=light" />
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express&theme=light" />
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-#### Data & Streaming Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,mysql,postgres,mongodb,redis" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=apache-flink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
-</p>
+<div align="center">
+
+### Data & Streaming
+<img src="https://skillicons.dev/icons?i=kafka,mysql,postgres,mongodb,redis&theme=light" />
+<br/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### Cloud & DevOps Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,git,github,linux" />
-</p>
+<div align="center">
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws&theme=light" />
+<br/>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,git,github,linux&theme=light" />
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-#### Tools & Development Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,idea,vim,maven" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-</p>
+<div align="center">
+
+### Tools & Dev Environment
+<img src="https://skillicons.dev/icons?i=vscode,postman,idea,vim,maven&theme=light" />
+
+</div>
 
 </td>
 </tr>
