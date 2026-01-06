@@ -15,7 +15,7 @@ Passionate about architecting robust backend systems and real-time data platform
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjana-kallingal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sanjanar06/sanjanar06)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanjanareji.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-Read%20Blog-12100E?style=for-the-badge&logo=rss&logoColor=white)](https://medium.com/@sanjanareji06)
 
 </div>
